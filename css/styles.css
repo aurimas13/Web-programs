@@ -99,6 +99,9 @@ p {
   margin: 20px;
 }
 
+.carousel-item {
+  padding: 7% 15%;
+}
 #press {
   background:  #ef8172;
   text-align: center;
