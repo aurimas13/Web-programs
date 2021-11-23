@@ -6,8 +6,7 @@
   <title>TinDog</title>
 
   <!-- Googlee Fonts -->
-  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;900&family=Ubuntu:wght@300;400&display=swap" rel="stylesheet">
-
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;900&family=Ubuntu&display=swap" rel="stylesheet">
   <!-- CSS Stylesheets -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
   <link rel="stylesheet" href="css/styles.css">
@@ -38,13 +37,13 @@
         <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item">
-              <a class="nav-link" href=''>Contact</a>
+              <a class="nav-link" href='#footer'>Contact</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href=''>Pricing</a>
+              <a class="nav-link" href='#pricing'>Pricing</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href=''>Download</a>
+              <a class="nav-link" href='#cta'>Download</a>
             </li>
           </ul>
         </div>
@@ -131,7 +130,7 @@
   <!-- Press -->
 
   <section id="press">
-    <!-- <img class="press-logo" src="images/TechCrunch.png" alt="tc-logo"> -->
+    <img class="press-logo" src="images/TechCrunch.png" alt="tc-logo">
     <img class="press-logo" src="images/tnw.png" alt="tnw-logo">
     <img class="press-logo" src="images/bizinsider.png" alt="biz-insider-logo">
     <img class="press-logo" src="images/mashable.png" alt="mashable-logo">
@@ -143,33 +142,56 @@
 
   <section id="pricing">
 
-    <h2>A Plan for Every Dog's Needs</h2>
-    <p>Simple and affordable price plans for your and your dog.</p>
+    <h2 class="plan-for-title-pricing">A Plan for Every Dog's Needs</h2>
+    <p class="plan-for-paragraph">Simple and affordable price plans for your and your dog.</p>
+
+    <div class="row">
+
+      <div class="pricing-column col-lg-4 col-md-6">
+        <div class="card">
+          <div class="card-header">
+            <h3 class="dog-h3">Chihuaha</h3>
+          </div>
+          <div class="card-body">
+            <h2>Free</h2>
+            <p class="Pricing-paragraphs">5 Matches Per Day</p>
+            <p class="Pricing-paragraphs">10 Messages Per Day</p>
+            <p class="Pricing-paragraphs">Unlimited App Usage</p>
+            <button class="btn btn-lg btn-block btn-outline-dark" type="button">Sign Up</button>
+          </div>
+        </div>
+      </div>
 
 
-    <h3>Chihuahua</h3>
-    <h2>Free</h2>
-    <p>5 Matches Per Day</p>
-    <p>10 Messages Per Day</p>
-    <p>Unlimited App Usage</p>
-    <button type="button">Sign Up</button>
+      <div class="pricing-column col-lg-4 col-md-6">
+        <div class="card">
+          <div class="card-header">
+            <h3 class="dog-h3">Labrador</h3>
+          </div>
+          <div class="card-body">
+            <h2>$49 / month</h2>
+            <p class="Pricing-paragraphs">Unlimited Matches</p>
+            <p class="Pricing-paragraphs">Unlimited Messages</p>
+            <p class="Pricing-paragraphs">Unlimited App Usage</p>
+            <button class="btn btn-lg btn-block btn-dark" type="button">Sign Up</button>
+          </div>
+        </div>
+      </div>
 
-
-    <h3>Labrador</h3>
-    <h2>$49 / mo</h2>
-    <p>Unlimited Matches</p>
-    <p>Unlimited Messages</p>
-    <p>Unlimited App Usage</p>
-    <button type="button">Sign Up</button>
-
-
-    <h3>Mastiff</h3>
-    <h2>$99 / mo</h2>
-    <p>Pirority Listing</p>
-    <p>Unlimited Matches</p>
-    <p>Unlimited Messages</p>
-    <p>Unlimited App Usage</p>
-    <button type="button">Sign Up</button>
+      <div class="pricing-column col-lg-4">
+      <div class="card">
+        <div class="card-header">
+          <h3 class="dog-h3">Mastiff</h3>
+        </div>
+        <div class="card-body">
+          <h2>$99 / month</h2>
+          <p class="Pricing-paragraphs">Priority Listing</p>
+          <p class="Pricing-paragraphs">Unlimited Matches</p>
+          <p class="Pricing-paragraphs">Unlimited Messages & App Usage</p>
+          <button class="btn btn-lg btn-block btn-dark" type="button">Sign Up</button>
+        </div>
+      </div>
+    </div>
 
   </section>
 
@@ -178,9 +200,9 @@
 
   <section id="cta">
 
-    <h3>Find the True Love of Your Dog's Life Today.</h3>
-    <button type="button">Download</button>
-    <button type="button">Download</button>
+    <h3 class="cta-heading">Find the True Love of Your Dog's Life Today.</h3>
+    <button class="download-button btn btn-lg btn-dark" type="button"> <i class="fab fa-apple"></i>Download</button>
+    <button class="download-button btn btn-lg btn-light" type="button"><i class="fab fa-google-play"></i>Download</button>
 
   </section>
 
@@ -188,8 +210,11 @@
   <!-- Footer -->
 
   <footer id="footer">
-
-    <p>© Copyright 2018 TinDog</p>
+    <i class="social-icon fab fa-facebook"></i>
+    <i class="social-icon fab fa-twitter"></i>
+    <i class="social-icon fab fa-instagram"></i>
+    <i class="social-icon fas fa-envelope"></i>
+    <p>© Copyright 2021 TinDog</p>
 
   </footer>
 
