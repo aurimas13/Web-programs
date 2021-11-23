@@ -94,9 +94,9 @@ p {
   color: #fff;
 }
 .testimonial-image {
-  width: 10%;
-  border-radius: 100%;
-  margin: 20px;
+  border-radius: 5rem;
+  width: 7.5rem;
+  margin: 1.5rem;
 }
 
 .carousel-item {
