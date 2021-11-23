@@ -88,7 +88,7 @@ p {
 /* Testimonial Section */
 
 #testimonials {
-  padding: 7% 15%;
+  padding: 7% 15% 0;
   text-align: center;
   background-color: #ef8172;
   color: #fff;
