@@ -1,1 +1,0 @@
-The stuff in this folder is temporary until font awesome stuff are found solution to be taken from the web. Downloaded from [here](https://fontawesome.com/)
