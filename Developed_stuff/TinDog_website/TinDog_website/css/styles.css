@@ -1,4 +1,3 @@
-
 body {
   font-family: "Montserrat";
 }
@@ -6,7 +5,6 @@ body {
 h2, h3 {
   font-family: "Montserrat";
   font-weight: 500;
-
 }
 
 p {
@@ -14,7 +12,6 @@ p {
 }
 
 /* Headings */
-
 .big-heading {
   font-family: "Montserrat";
   font-weight: 900;
@@ -25,24 +22,23 @@ p {
 .bla-bla-bla {
   font-weight: 550;
 }
-/* Containers */
 
+/* Containers */
 .container-fluid {
   padding: 3% 15%;
 }
 
 /* Sections */
-
 .colored-section {
   background-color: #ff4c68;
-  color: #fff;}
+  color: #fff;
+}
 
 .white-section {
   background-color: #fff;
 }
 
 /* Title Section */
-
 #title {
   background-color: #ff4c68;
   color: #fff;
@@ -54,7 +50,6 @@ p {
 }
 
 /* Navigation Bar */
-
 .plan-for-title-pricing {
   font-family: "Montserrat";
   font-weight: 550;
@@ -74,7 +69,7 @@ p {
 
 .navbar-brand {
   font-family: "Ubuntu";
-  font-size:2.5rem;
+  font-size: 2.5rem;
   font-weight: bold;
 }
 
@@ -82,19 +77,17 @@ p {
   padding: 0 18px;
 }
 
-.nav-link{
+.nav-link {
   font-size: 1.2rem;
   font-family: "Montserrat-Light";
 }
 
 /* Download Buttons */
-
 .download-button {
   margin: 5% 3% 5% 0;
 }
 
 /* Title image */
-
 .title-image {
   width: 45%;
   transform: rotate(25deg);
@@ -103,7 +96,6 @@ p {
 }
 
 /* Features section */
-
 #features {
   background-color: #fff;
   position: relative;
@@ -117,17 +109,15 @@ p {
 
 .icon {
   color: #ef8172;
-  margin-bottom:  1rem;
+  margin-bottom: 1rem;
 }
 
 /* Adding hover */
-
 .icon:hover {
   color: #ff4c68;
 }
 
 /* Testimonial Section */
-
 #testimonials {
   text-align: center;
   background-color: #ef8172;
@@ -138,17 +128,17 @@ p {
   font-size: 3rem;
   line-height: 1.5;
 }
+
 .testimonial-image {
   border-radius: 5rem;
   width: 7.5rem;
   margin: 1.5rem;
 }
 
-.carousel-item {
-}
+.carousel-item {}
 
 #press {
-  background:  #ef8172;
+  background: #ef8172;
   text-align: center;
   padding-bottom: 3%;
 }
@@ -159,7 +149,6 @@ p {
 }
 
 /* Pricing Section */
-
 #pricing {
   padding: 7% 20%;
   text-align: center;
@@ -177,7 +166,6 @@ p {
 }
 
 /* CTA Section */
-
 #cta {
   text-align: center;
 }
@@ -198,7 +186,6 @@ p {
 }
 
 @media (max-width:991px) {
-
   #title {
     text-align: left;
   }
