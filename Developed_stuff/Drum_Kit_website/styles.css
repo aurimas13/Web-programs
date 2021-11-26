@@ -29,7 +29,7 @@ footer {
     50% { transform: scale(1.3); }
     100% { transform: scale(1); }
   }
-  
+
 .w {
   background-image: url("images/tom1.png");
 }
