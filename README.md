@@ -2,26 +2,14 @@
 <br> Herein you will find the source codes of developed websites from this wed development [bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) as a an online course. </br>
 <br> You may find always updated result of the website I am developing now [here](https://aurimas13.github.io/Web-stuff/). The relevant files (**index.html**, **index.js**, **styles.css**) are in the main branch. </br>
 
-# Developed_stuff
+**Developed_stuff** *folder* contains the website source codes I am developing.
 
-Contains the website source codes I am developing.
+**Playground** *folder* contains learning material that could hardly be called websites.
 
-# Playground
+**Previous** *folder* includes indexes that were part of the main that you saw when you pressed the link as shown in [Web-stuff](#Web-stuff).
 
-Contains learning material that could hardly be called websites.
+**css** *folder* includes css styles.
 
-# Previous
+**images** *folder* includes all images used for the developed websites.
 
-Includes indexes that were part of the main that you saw when you pressed the link as shown in [Web-stuff](#Web-stuff).
-
-# css
-
-Includes css styles.
-
-# images
-
-Includes all images used for the developed websites.
-
-# sounds
-
-Includes sound for the developed websites.
+**sounds** *folder* includes sound for the developed websites.
