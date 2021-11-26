@@ -1,7 +1,7 @@
 # Web-stuff
 
 Herein the source codes of developed websites are contained by doing this wed development [bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/).
-<br> *Always updated result* of the **website** I am developing now can be found [here](https://aurimas13.github.io/Web-stuff/). The relevant files (*index.html*, *index.js*, *styles.css*) are in the main branch. </br>
+<br> **Always updated result** of the **website** in the *development* now can be found [here](https://aurimas13.github.io/Web-stuff/). The relevant files (*index.html*, *index.js*, *styles.css*) are in the main branch. </br>
 
 **Developed_stuff** *folder* contains the website source codes I am developing.
 
