@@ -7,7 +7,7 @@ Herein the source codes of developed websites are contained by doing this wed de
 
 **Playground** *folder* contains learning material that hardly could be called websites.
 
-**Previous** *folder* includes html codes that were part of the main that you saw when you pressed the link to see the developed stuff that has been completed.
+**Previous** *folder* includes html codes that were part of the main that you saw when you pressed the link to see the developed stuff that had been completed.
 
 **css** *folder* includes css styles.
 
