@@ -6,7 +6,7 @@
 
 **Playground** *folder* contains learning material that could hardly be called websites.
 
-**Previous** *folder* includes indexes that were part of the main that you saw when you pressed the link as shown in [Web-stuff](#Web-stuff).
+**Previous** *folder* includes html codes that were part of the main that you saw when you pressed the link to see the developed stuff that has been completed.
 
 **css** *folder* includes css styles.
 
