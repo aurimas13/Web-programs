@@ -4,7 +4,7 @@
 
 **Developed_stuff** *folder* contains the website source codes I am developing.
 
-**Playground** *folder* contains learning material that could hardly be called websites.
+**Playground** *folder* contains learning material that hardly could be called websites.
 
 **Previous** *folder* includes html codes that were part of the main that you saw when you pressed the link to see the developed stuff that has been completed.
 
@@ -12,4 +12,4 @@
 
 **images** *folder* includes all images used for the developed websites.
 
-**sounds** *folder* includes sound for the developed websites.
+**sounds** *folder* includes sounds for the developed websites.
