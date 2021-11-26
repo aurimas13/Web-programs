@@ -3,7 +3,7 @@
 Herein the source codes of developed websites are contained by doing this wed development [bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/).
 <br> ***Always updated result*** of either the ***developed*** *website* or the *website* under the *development* can be found [here](https://aurimas13.github.io/Web-stuff/). The relevant files (*index.html*, *index.js*, *styles.css*) are updated and duplicated in the main branch. </br>
 
-**Developed_stuff** *folder* contains the website source codes I am developing.
+**Developed_stuff** *folder* contains the website source codes that I am either developing or had already been completed.
 
 **Playground** *folder* contains learning material that hardly could be called websites.
 
