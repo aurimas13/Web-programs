@@ -1,5 +1,5 @@
 // This is the Simon Game javascript file
-
+ 
 var buttonColours = ["red", "blue", "green", "yellow"];
 
 var gamePattern = [];
