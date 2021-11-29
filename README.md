@@ -35,4 +35,4 @@ Includes html codes that were part of the main that you saw when you pressed the
 
 # License
 
-[LICENSE]()
+[LICENSE](https://github.com/aurimas13/Web-programs/blob/main/LICENSE)
