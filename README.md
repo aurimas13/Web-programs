@@ -12,12 +12,12 @@ This repo contains the source codes of the websites that are either developed or
 # Developed
 [(Back to top)](#Web-programs)
 
-Contains the website source codes I am developing.
+Contains the website source codes I am developing or that had been developed already.
 
 # Playground
 [(Back to top)](#Web-programs)
 
-Contains learning material that could hardly be called websites.
+Contains learning material that could hardly be called websites. Simply a playground while learning about web development.
 
 # Previous
 [(Back to top)](#Web-programs)
@@ -27,11 +27,12 @@ Includes html codes that were part of the main that you saw when you pressed the
 # Other
 [(Back to top)](#Web-programs)
 
-**css** *folder* includes css styles.
+**css** *folder* includes css styles of all developed websites that were seeable through pages but now is of the recent developed website and can be seen by pressing [here](https://aurimas13.github.io/Web-programs/).
 
-**images** *folder* includes all images used for the developed websites.
+**images** *folder* includes all images used for the developed websites that were used through pages but now is of the recent developed website and can be observed by inspecting images while pressing [here](https://aurimas13.github.io/Web-programs/).
 
-**sounds** *folder* includes sound files for the developed websites.
+**sounds** *folder* includes sound files for the developed websites that had been heard through pages but now is of the recent developed website and can be observed by hearing sounds while pressing [here](https://aurimas13.github.io/Web-programs/).
+.
 
 # License
 
