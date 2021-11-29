@@ -22,7 +22,7 @@ Contains learning material that could hardly be called websites. Simply a playgr
 # Previous
 [(Back to top)](#Web-programs)
 
-Includes html codes that were part of the main that you saw when you pressed the link to see the developed website that has been completed. In short it includes indexes that were part of the main branch that you saw when you pressed the link as shown in the first paragrapht of [Web-programs](#Web-programs) documentations.
+Includes html codes that were part of the main that you saw when you pressed the link to see the developed website that has been completed. In short it includes the indexes that were part of the main branch that you saw when you pressed the link as shown in the first paragraph of [Web-programs](#Web-programs) documentation.
 
 # Other
 [(Back to top)](#Web-programs)
