@@ -1,5 +1,5 @@
 # Web-programs
-This repo contains the source codes of the websites that are either developed or under development including frontend, backend or both with the help while doing this web development [bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/). ***Always updated result*** of either the ***developed*** *website* or the *website* under the *development* can be found [here](https://aurimas13.github.io/Web-programs/). Currently pages include **Simon Game**. The relevant files (**index.html**, **game.js**, **styles.css**) are updated and duplicated in the main branch.
+This repo contains the source codes of the websites that are either developed or under development including frontend, backend or both with the help while doing this web development [bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/). ***Always updated result*** of either the ***developed*** *website* or the *website* under the *development* can be found [here](https://aurimas13.github.io/Web-programs/). Currently GitHub pages include **Simon Game**. The relevant files (**index.html**, **game.js**, **styles.css**) are updated and duplicated in the main branch.
 
 # Table of contents
 
