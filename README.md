@@ -1,6 +1,6 @@
 # Web-programs
 
-This repo contains the source codes of the websites that are either developed or under development including frontend, backend or both with the help while doing this web development [bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/). ***Always updated result*** of either the ***developed*** *website* or the *website* under the *development* can be found [here](https://aurimas13.github.io/Web-programs/) and [here]((https://enigmatic-gorge-53334.herokuapp.com/). Currently GitHub pages includes **Simon Game** while heroku server **Newsletter-Signup** program. The relevant files (**index.html**, **game.js**, **styles.css**) to access GitHub pages are updated and duplicated in this repo's main branch.
+This repo contains the source codes of the websites that are either developed or under development including frontend, backend or both with the help while doing this web development [bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/). ***Always updated result*** of either the ***developed*** *website* or the *website* under the *development* can be found [here](https://aurimas13.github.io/Web-programs/) and [here]((https://enigmatic-gorge-53334.herokuapp.com/). Currently GitHub pages includes **Simon Game** while the server contains **Newsletter-Signup** program. The relevant files (**index.html**, **game.js**, **styles.css**) to access GitHub pages are updated and duplicated in this repo's main branch.
 
 # Table of contents
 
