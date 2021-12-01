@@ -38,9 +38,16 @@ app.post("/", function(req, res) {
   const url = "https://us20.api.mailchimp.com/3.0/lists/556ed07dad";
   const options = {
     method: "POST",
-    auth: "aurimas13:3dcbc46278b08c1378901ffd90deb775-us20"
+    auth: "aurimas13:2e1155a1d40ae472ae17219ee5d25370-us20"
   };
   const request = https.request(url, options, function(response) {
+
+      if (response.statusCode === 200) {
+        res.sendFile(__dirname + "/success.html");
+      } else {
+        res.sendFile(__dirname + "/failure.html");
+      }
+
       response.on("data", function(data) {
           console.log(JSON.parse(data));
       })
@@ -50,12 +57,17 @@ app.post("/", function(req, res) {
 
 });
 
-app.listen(1000, function() {
-  console.log("Server is running on port 1000");
+app.post("/failure", function(req, res) {
+  res.redirect("/")
+});
+
+app.listen(process.env.PORT || 3333, function() {
+  console.log("Server is running on heroku or locally at port 3333");
 });
 
 // API Key
-// 3dcbc46278b08c1378901ffd90deb775-us20
+// 3dcbc46278b08c1378901ffd90deb775-us20 (github added, so available locally)
+// 2e1155a1d40ae472ae17219ee5d25370-us20
 
-// List Id
+// List/Audience Id
 // 556ed07dad
