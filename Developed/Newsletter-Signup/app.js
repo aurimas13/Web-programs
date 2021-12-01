@@ -1,4 +1,5 @@
 //jshint esversion: 6
+// Javascript main sendFile
 
 const express = require("express");
 const bodyParser = require("body-parser");
@@ -38,7 +39,7 @@ app.post("/", function(req, res) {
   const url = "https://us20.api.mailchimp.com/3.0/lists/556ed07dad";
   const options = {
     method: "POST",
-    auth: "aurimas13:2e1155a1d40ae472ae17219ee5d25370-us20"
+    auth: "aurimas13:b2cee8ac65d2ff492245df0451de97c3-us20"
   };
   const request = https.request(url, options, function(response) {
 
@@ -67,7 +68,8 @@ app.listen(process.env.PORT || 3333, function() {
 
 // API Key
 // 3dcbc46278b08c1378901ffd90deb775-us20 (github added, so available locally)
-// 2e1155a1d40ae472ae17219ee5d25370-us20
+// 2e1155a1d40ae472ae17219ee5d25370-us20 (github added, so available locally)
+// b2cee8ac65d2ff492245df0451de97c3-us20
 
 // List/Audience Id
 // 556ed07dad
