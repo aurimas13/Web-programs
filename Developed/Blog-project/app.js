@@ -65,6 +65,6 @@ app.get("/posts/:postName", function(req, res){
 
 });
 
-app.listen(1001, function() {
-  console.log("Server started on port 1001");
+app.listen(1002, function() {
+  console.log("Server started on port 1002");
 });
