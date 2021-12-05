@@ -1,1 +1,1 @@
-This is a blank README.
+This is a blank README. For nice listing of a project.
