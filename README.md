@@ -1,5 +1,5 @@
 <p align=center>
-  <img height="300px" src="https://github.com/aurimas13/Web-programs/blob/main/images/web_dev.png"/>
+  <img height="450px" src="https://github.com/aurimas13/Web-programs/blob/main/images/web_dev.png"/>
 </p>
 
 <p align="center" > <b>Solutions to Python problems </b> </p>
