@@ -1,3 +1,15 @@
+<p align=center>
+  <img height="300px" src="https://github.com/aurimas13/Web-programs/blob/main/images/webdev.png
+"/>
+</p>
+
+<p align="center" > <b>Solutions to Python problems </b> </p>
+<br>
+<p align=center>
+  <a href="https://github.com/aurimas13/Road-App/blob/main/LICENSE"><img alt="license" src="https://img.shields.io/npm/l/express"></a>
+  <a href="https://twitter.com/anausedas"><img alt="twitter" src="https://img.shields.io/twitter/follow/anausedas?style=social"/></a>
+</p>
+
 # Web-programs
 
 This repo contains the source codes of the websites that I have developed including frontend, backend or both with the help while completing this web development [bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/). ***Results*** of the ***developed*** *websites* that are accessible publicly can be found [here](https://aurimas13.github.io/Web-programs/), [here](https://serene-refuge-72822.herokuapp.com/) and [here](https://desolate-bastion-00330.herokuapp.com/). Currently GitHub pages includes **Simon Game** while the server contains simple subscription **Newsletter-Signup** program and a completed **To Do List program**. The relevant files (**index.html**, **game.js**, **styles.css**) to access GitHub pages are updated and duplicated in the repo's main branch, while the [*Newsletter-Signup*](https://github.com/aurimas13/Web-programs/tree/main/Developed/Newsletter-Signup) and [*Todolist*](https://github.com/aurimas13/Web-programs/tree/main/Developed/Todolist-complete) programs contain source codes under their GitHub links. More on the developed thingies can be found under the [Developed](#Developed) section where short descriptions of the projects are also provided.
