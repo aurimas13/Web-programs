@@ -2,7 +2,7 @@
   <img height="450px" src="https://github.com/aurimas13/Web-programs/blob/main/images/web_dev.png"/>
 </p>
 
-<p align="center" > <b>Solutions to Python problems </b> </p>
+<p align="center" > <b> Web Development programs </b> </p>
 <br>
 <p align=center>
   <a href="https://github.com/aurimas13/Road-App/blob/main/LICENSE"><img alt="license" src="https://img.shields.io/npm/l/express"></a>
